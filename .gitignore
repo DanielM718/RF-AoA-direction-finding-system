@@ -24,7 +24,7 @@ Desktop.ini
 *.pem
 *.key
 
-$# Ignore IDE and editor directories
+# Ignore IDE and editor directories
 # VS Code
 .vscode/
 !.vscode/extensions.json
